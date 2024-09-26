@@ -1,0 +1,14 @@
+* {
+    margin:0;
+    padding:0;
+}
+.parent {
+    background-image:url(16.jpg);
+    background-color:whitesmoke;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    height:300vh;
+    width:200vh;
+}
+
